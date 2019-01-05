@@ -1,35 +1,45 @@
-# Code of Conduct
+# Código de Conducta
 
-## Proposito
+## Nuestro compromiso
 
-El objetivo de `DevClub` es ser una comunidad inclusiva para todos los estudiantes de Cetys Universidad que tengan el gusto y el interes de aprender sobre temas relacionados al software y tecnologia.
+En el interés de fomentar una comunidad abierta y acogedora, nosotros como contribuyentes y administradores nos comprometemos a hacer de la participación en nuestro proyecto y nuestra comunidad una experiencia libre de acoso para todos, independientemente de la edad, dimensión corporal, discapacidad, etnia, identidad y expresión de género, nivel de experiencia, nacionalidad, apariencia física, raza, religión, identidad u orientación sexual. 
 
-Buscamos principalmente la union y el apoyo entre estudiantes o miembros de esta comunidad.
+## Nuestros estándares
 
-Trabajamos con el compromiso de brindar y compartir nuestro conocimiento para aprender y conocer todas las areas en la industria del software.
+Ejemplos de comportamiento que contribuyen a crear un ambiente positivo:
 
-## Participacion
+* Uso de lenguaje amable e inclusivo
+* Respeto a diferentes puntos de vista y experiencias
+* Aceptación de críticas constructivas
+* Enfocarse en lo que es mejor para la comunidad
+* Mostrar empatía a otros miembros de la comunidad
 
-Una de las intenciones de esta comunidad, es lograr aprender de todos los miembros. Por ello, cualquier miembro de la comunidad que quiera compartir su conocimiento o algun tema en especifico, puede hacerlo. Ya sea, dando una charla o un taller.
+Ejemplos de comportamiento inaceptable por participantes:
 
-## Comportamiento requerido
+* Uso de lenguaje o imágenes sexuales y atención sexual no deseada
+* Comentarios insultantes o despectivos (*trolling*) y ataques personales o políticos
+* Acoso público o privado
+* Publicación de información privada de terceros sin su consentimiento, como direcciones físicas o electrónicas
+* Otros tipos de conducta que pudieran considerarse inapropiadas en un entorno profesional.
 
-* Participar de manera activa.
-* Lograr una comunicacion de respeto con los miembros.
-* Colaborar sin generar ningun tipo de conflicto.
-* Brindar apoyo de manera generosa cuando lo requiera algun miembro.
-* No utilizar lenguaje ni conducta de discriminacion, abuso o acoso.
-* Ser tolerante y comprensivo al momento de la participacion de los estudiantes.
-* Ser consciente de tu entorno e intencion de todos los miembros de la comunidad. Estamos para aprender de los demas. Cualquier situacion que no aplique ninguno de estos puntos, notificarlo a los lideres de la comunidad.
+## Nuestras responsabilidades
 
-<!-- ## Consecuencias al incumplimiento de conducta
+Los administradores del proyecto son responsables de clarificar los estándares de comportamiento aceptable y se espera que tomen medidas correctivas y apropiadas en respuesta a situaciones de conducta inaceptable. 
 
-El comportamiento inaceptable de cualquier miembro de la comunidad, no sera tolerado.
+Los administradores del proyecto tienen el derecho y la responsabilidad de eliminar, editar o rechazar comentarios, *commits*, código, ediciones de documentación, *issues*, y otras contribuciones que no estén alineadas con este Código de Conducta, o de prohibir temporal o permanentemente a cualquier colaborador cuyo comportamiento sea inapropiado, amenazante, ofensivo o perjudicial.
 
-Se les avisara de manera inmediata para corregir su comportamiento.
+## Alcance
 
-Al recurrir con un mal comportamiento de manera constante, los lideres tomaran la decision definitava al respecto.
+Este código de conducta aplica tanto a espacios del proyecto como a espacios públicos donde un individuo esté en representación del proyecto o comunidad. Ejemplos de esto incluye el uso de la cuenta oficial de correo electrónico, publicaciones a través de las redes sociales oficiales, o presentaciones con personas designadas en eventos *online* u *offline*. La representación del proyecto puede ser clarificada explicitamente por los administradores del proyecto.
+ 
+## Aplicación
 
-## Testigo o victima de mal comportamiento
+Ejemplos de abuso, acoso u otro tipo de comportamiento inaceptable puede ser reportado al equipo del proyecto en [fernando.hdz97@gmail.com](mailto:fernando.hdz97@gmail.com). Todas las quejas serán revisadas e investigadas, generando un resultado apropiado a las circunstancias. El equipo del proyecto está obligado a mantener confidencialidad de la persona que reportó el incidente. Detalles específicos acerca de las políticas de aplicación pueden ser publicadas por separado.
 
-En caso de observar o ser parte de un comportamiento erroneo, porfavor notificarlo a los lideres de la comunidad. -->
+Administradores que no sigan o que no hagan cumplir este Código de Conducta pueden ser eliminados de forma temporal o permanente del equipo administrador. 
+
+## Atribución
+
+Este Código de Conducta es una adaptación del [Contributor Covenant][homepage], versión 1.4, disponible en https://www.contributor-covenant.org/es/version/1/4/code-of-conduct.html
+
+[homepage]: https://www.contributor-covenant.org
